@@ -71,6 +71,13 @@ public class BpmProcessInstanceStatusEvent extends ApplicationEvent {
         return processInstanceInfo != null ? processInstanceInfo.getBusinessKey() : null;
     }
 
+    /**
+     * 获取流程实例状态
+     */
+    public Integer getStatus() {
+        return processInstanceInfo != null ? processInstanceInfo.getStatus() : null;
+    }
+
 
     public BpmProcessInstanceStatusEvent() {
         // new Object() 保证非空

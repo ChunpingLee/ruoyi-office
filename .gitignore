@@ -76,3 +76,6 @@ sessionStore
 
 # pdm
 sql/ruoyi-office/.back_ruoyi-office
+
+# sql dump
+sql/mysql/dump/
