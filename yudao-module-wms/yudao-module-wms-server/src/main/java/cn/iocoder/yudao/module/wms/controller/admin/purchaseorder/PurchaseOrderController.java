@@ -27,7 +27,7 @@ import static cn.iocoder.yudao.framework.apilog.core.enums.OperateTypeEnum.*;
 
 import cn.iocoder.yudao.module.wms.controller.admin.purchaseorder.vo.*;
 import cn.iocoder.yudao.module.wms.dal.dataobject.purchaseorder.PurchaseOrderDO;
-import cn.iocoder.yudao.module.wms.dal.dataobject.purchaseorderdetail.PurchaseOrderDetailDO;
+import cn.iocoder.yudao.module.wms.dal.dataobject.purchaseorder.PurchaseOrderDetailDO;
 import cn.iocoder.yudao.module.wms.service.purchaseorder.PurchaseOrderService;
 
 @Tag(name = "仓库管理 - 采购订单")

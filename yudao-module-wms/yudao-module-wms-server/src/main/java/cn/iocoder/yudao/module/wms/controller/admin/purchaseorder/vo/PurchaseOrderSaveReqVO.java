@@ -7,7 +7,7 @@ import jakarta.validation.constraints.*;
 import java.math.BigDecimal;
 import org.springframework.format.annotation.DateTimeFormat;
 import java.time.LocalDateTime;
-import cn.iocoder.yudao.module.wms.dal.dataobject.purchaseorderdetail.PurchaseOrderDetailDO;
+import cn.iocoder.yudao.module.wms.dal.dataobject.purchaseorder.PurchaseOrderDetailDO;
 
 @Schema(description = "管理后台 - 采购订单新增/修改 Request VO")
 @Data

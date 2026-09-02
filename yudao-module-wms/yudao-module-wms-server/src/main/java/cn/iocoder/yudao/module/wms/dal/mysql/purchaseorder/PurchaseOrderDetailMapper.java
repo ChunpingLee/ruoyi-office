@@ -3,7 +3,7 @@ package cn.iocoder.yudao.module.wms.dal.mysql.purchaseorder;
 import java.util.*;
 
 import cn.iocoder.yudao.framework.mybatis.core.mapper.BaseMapperX;
-import cn.iocoder.yudao.module.wms.dal.dataobject.purchaseorderdetail.PurchaseOrderDetailDO;
+import cn.iocoder.yudao.module.wms.dal.dataobject.purchaseorder.PurchaseOrderDetailDO;
 import org.apache.ibatis.annotations.Mapper;
 
 /**
