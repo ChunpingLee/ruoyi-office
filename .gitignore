@@ -79,3 +79,9 @@ sql/ruoyi-office/.back_ruoyi-office
 
 # sql dump
 sql/mysql/dump/
+
+# Local AI assistant configuration
+/CLAUDE.md
+/.claude/
+/.lingjing.yaml
+/.lingjing/
